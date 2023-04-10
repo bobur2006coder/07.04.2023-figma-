@@ -511,9 +511,9 @@ footer {
     .icons{
         gap: 10px;
     }
-    .nav-under{
-        /* padding: 0px; */
-    }
+   .cards{
+    flex-wrap: wrap;
+   }
 
     
 }
