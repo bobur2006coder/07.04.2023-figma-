@@ -513,6 +513,17 @@ footer {
     }
    .cards{
     flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+   }
+   .list-section{
+    gap: -1px;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+   }
+   .box_section {
+
    }
 
     
