@@ -489,11 +489,14 @@ footer {
     }
     .so{
         font-size: 15px;
-        width: 155px;
+        width: 195px;
         text-align: center;
     }
     .graf>img{
         width: 54px;
+    }
+    .icons{
+        gap: 35px;
     }
 
     
