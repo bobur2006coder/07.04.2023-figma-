@@ -480,6 +480,8 @@ footer {
         margin-left: 20px;
     }
     .list-item{
+        justify-content: center;
+        text-align: left;
         font-size: 12px;
     }
     .i_span{
@@ -488,6 +490,7 @@ footer {
     .so{
         font-size: 15px;
         width: 155px;
+        text-align: center;
     }
     .graf>img{
         width: 54px;
