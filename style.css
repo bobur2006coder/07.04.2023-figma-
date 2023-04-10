@@ -495,9 +495,11 @@ footer {
     .graf>img{
         width: 54px;
     }
-    .icons{
-        gap: 35px;
+    .nav_ul_list>a{
+        font-size: 9px;
+        gap: 1px;
     }
+    
 
     
 }
