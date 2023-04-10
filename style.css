@@ -28,6 +28,7 @@ li {
     align-items: center;
     /* gap: 55px; */
     justify-content: space-between;
+    
 
 
 }
@@ -444,4 +445,36 @@ footer {
 
 .iconss i{
     color: black;
+}
+
+
+
+/* responsive start */
+
+
+
+@media (max-width:576px) {
+    .graf{
+        gap: 5px;
+    }
+
+    .list{
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+    .graf_two{
+        justify-content: center;
+    }
+    .list_item_header{
+        height: 75px;
+        width: 304px;
+        text-align: center;
+    }
+    .header_inp{
+        margin-top: 15px;
+        width: 65%;
+        margin-left: 20px;
+    }
+    
 }
