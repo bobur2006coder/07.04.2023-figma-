@@ -491,6 +491,7 @@ footer {
         font-size: 15px;
         width: 195px;
         text-align: center;
+
     }
     .graf>img{
         width: 54px;
@@ -499,7 +500,9 @@ footer {
         font-size: 9px;
         gap: 1px;
     }
-    
+    .icons{
+        gap: 5px;
+    }
 
     
 }
