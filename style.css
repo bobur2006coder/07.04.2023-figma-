@@ -360,6 +360,8 @@ li {
 
 }
 
+
+
 .box_span_p {
     font-size: 18px;
     font-weight: 700;
@@ -388,8 +390,7 @@ li {
 footer {
     background-color: #F0F0F4;
     width: 100%;
-    height: 232px;
-    padding: 32px 0px;
+    /* height: 232px; */
 }
 
 
@@ -445,6 +446,12 @@ footer {
 
 .iconss i{
     color: black;
+}
+
+.pd{
+    padding: 32px 0px;
+
+
 }
 
 
@@ -524,6 +531,14 @@ footer {
    }
    .box_section {
 
+   }
+
+   .f_inp{
+    width: 230px;
+    margin-bottom: 15px;
+   }
+   .footer{
+    /* height: 100%; */
    }
 
     
