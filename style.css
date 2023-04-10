@@ -478,6 +478,14 @@ footer {
         margin-top: 15px;
         width: 65%;
         margin-left: 20px;
+        height: 40px;
+    }
+
+    .inp_btn{
+        width: 80px;
+        height: 40px;
+        font-size: 15px;
+
     }
     .list-item{
         justify-content: center;
