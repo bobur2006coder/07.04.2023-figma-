@@ -455,7 +455,10 @@ footer {
 
 @media (max-width:575px) {
     .graf{
-        gap: 5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0px;
     }
 
     .list{
@@ -476,5 +479,19 @@ footer {
         width: 65%;
         margin-left: 20px;
     }
+    .list-item{
+        font-size: 12px;
+    }
+    .i_span{
+        font-size: 10px;
+    }
+    .so{
+        font-size: 15px;
+        width: 155px;
+    }
+    .graf>img{
+        width: 54px;
+    }
+
     
 }
