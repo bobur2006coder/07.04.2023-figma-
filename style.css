@@ -540,6 +540,17 @@ footer {
    .footer{
     /* height: 100%; */
    }
+   .box_btn_two {
+    color: white;
+    height: 25px;
+    width: 63px;
+    background-color: #1C62CD;
+    border: none;
+    margin: auto;
+    
+
+
+}
 
     
 }
